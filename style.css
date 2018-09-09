@@ -1,0 +1,56 @@
+.body-navbar {
+	width: 1905px;
+	height: 77px;
+}
+
+.navbar {
+	position: relative;
+	padding-top: 2px;
+	padding-right: 3px;
+	padding-bottom: 2px;
+	padding-left: 3px;
+}
+
+.App-body {
+	text-align: center;
+}
+
+.jumbotron {
+	background-image: url(img/header-img.jpg);
+	background-size: cover;
+	min-height: 300px;
+	color: white;
+}
+
+.display-3 {
+	font-size: 30px;
+}
+
+.card {
+	transition: box-shadow .0.5s;
+}
+
+.card:hover {
+	box-shadow: 0 20px 30px rgba(0, 0, 0, 0.3);
+}
+
+.Warna-biru {
+	background-color: #0bc72a;
+	color: white;
+}
+
+.Warna-putih {
+	box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+.About-body {
+	background-color: #6c757d;
+}
+
+.des {
+	font-size: 18px;
+}
+
+.fasilitas-col {
+	text-align: left;
+}
